@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toshantarora.io/monster-roldex/static/css/main.43c59918.chunk.css",
+    "main.js": "/toshantarora.io/monster-roldex/static/js/main.7c4734ac.chunk.js",
+    "main.js.map": "/toshantarora.io/monster-roldex/static/js/main.7c4734ac.chunk.js.map",
+    "runtime-main.js": "/toshantarora.io/monster-roldex/static/js/runtime-main.4cbcbc78.js",
+    "runtime-main.js.map": "/toshantarora.io/monster-roldex/static/js/runtime-main.4cbcbc78.js.map",
+    "static/js/2.6d46a37c.chunk.js": "/toshantarora.io/monster-roldex/static/js/2.6d46a37c.chunk.js",
+    "static/js/2.6d46a37c.chunk.js.map": "/toshantarora.io/monster-roldex/static/js/2.6d46a37c.chunk.js.map",
+    "static/js/3.7feea618.chunk.js": "/toshantarora.io/monster-roldex/static/js/3.7feea618.chunk.js",
+    "static/js/3.7feea618.chunk.js.map": "/toshantarora.io/monster-roldex/static/js/3.7feea618.chunk.js.map",
+    "index.html": "/toshantarora.io/monster-roldex/index.html",
+    "static/css/main.43c59918.chunk.css.map": "/toshantarora.io/monster-roldex/static/css/main.43c59918.chunk.css.map",
+    "static/js/2.6d46a37c.chunk.js.LICENSE.txt": "/toshantarora.io/monster-roldex/static/js/2.6d46a37c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cbcbc78.js",
+    "static/js/2.6d46a37c.chunk.js",
+    "static/css/main.43c59918.chunk.css",
+    "static/js/main.7c4734ac.chunk.js"
+  ]
+}
